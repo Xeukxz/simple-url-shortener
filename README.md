@@ -3,7 +3,7 @@ A simple and easy to use url-shortener using is.gd and axios
 
 # Usage
 ```javascript
-const shortenURL = require('shortenURL.js')
+const shortenURL = require('ShortenURL.js')
 
 shortenURL('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 ```
